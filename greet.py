@@ -4,7 +4,7 @@ def display_message():
     """
     Function to display a text message.
     """
-    message = "Welcome to our repository!"
+    message = "Hai!, setelah ini di revert ygy"
     print(message)
 
 if __name__ == "__main__":
