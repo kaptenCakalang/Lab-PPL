@@ -4,7 +4,7 @@ def display_message():
     """
     Function to display a text message.
     """
-    message = "Hola"
+    message = "hai cewe"
     print(message)
 
 if __name__ == "__main__":
